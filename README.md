@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jpzin1
+- 👋 Hi, I’m João Pedro
 - 👀 I’m interested in programing
 - 🌱 I'm currently learning full stack programming
 - 💞️ I’m looking to collaborate as a dev
