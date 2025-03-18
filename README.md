@@ -25,6 +25,6 @@
 <div> 
   <a href="https://instagram.com/joaopedrocostaaaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/joão-pedro-holanda-884973330/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto:joaocostadf5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-felipinhodev@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:joaocostadf5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-joaocostadf5@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
 </div>
