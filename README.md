@@ -4,6 +4,7 @@
 
 ## 🚀 About me 
 
+I'm passionate about full-stack development and always eager to learn new things. Currently, I'm focused on improving my skills with Angular and TypeScript. I enjoy creating efficient solutions and I'm excited to apply my knowledge to challenging projects.
 
 ## 🧠 Skills
 
