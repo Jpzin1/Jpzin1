@@ -20,10 +20,10 @@ I'm passionate about full-stack development and always eager to learn new things
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Jpzin1&show_icons=true&theme=transparent&count_private=true&hide=stars"/>
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Jpzin1111&show_icons=true&theme=transparent&count_private=true&hide=stars"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jpzin1&theme=transparent&size_weight=1&count_weight=1&layout=compact&langs_count=6&card_width=320" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jpzin1111&theme=transparent&size_weight=1&count_weight=1&layout=compact&langs_count=6&card_width=320" />
 </a>
 </div>
 
