@@ -4,7 +4,7 @@
 
 ## My Portfolio
 
- ![Veja o meu portfolio aqui](https://angular-portfolio-eight-umber.vercel.app/)
+🔗 Confira meu portfólio: [angular-portfolio-eight-umber.vercel.app](https://angular-portfolio-eight-umber.vercel.app/)
 
 ## 🚀 About me 
 
