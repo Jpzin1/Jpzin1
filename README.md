@@ -2,6 +2,10 @@
  My name is João Pedro and my nickname is "Jpzin1"! <br>
  Computer Science student at the Centro Universitário de Brasília – Ceub.
 
+## My Portfolio
+
+ ![Veja o meu portfolio aqui](https://angular-portfolio-eight-umber.vercel.app/)
+
 ## 🚀 About me 
 
 I'm passionate about full-stack development and always eager to learn new things. Currently, I'm focused on improving my skills with Angular and TypeScript. I enjoy creating efficient solutions and I'm excited to apply my knowledge to challenging projects.
