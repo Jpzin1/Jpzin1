@@ -12,8 +12,8 @@ I'm passionate about full-stack development and always eager to learn new things
 
 ## 🧠 Skills
 
-![COBOL](https://img.shields.io/badge/COBOL-00427E?style=for-the-badge&logo=cobol&logoColor=white) ![JCL](https://img.shields.io/badge/JCL-000000?style=for-the-badge&logo=ibm&logoColor=white) ![T-REXX](https://img.shields.io/badge/T--REXX-5A2D82?style=for-the-badge&logo=ibm&logoColor=white)
-![Natural](https://img.shields.io/badge/Natural-0B6FA4?style=for-the-badge&logo=adabas&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-00427E?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JCL](https://img.shields.io/badge/JCL-052FAD?style=for-the-badge&logo=ibm&logoColor=white) ![T-REXX](https://img.shields.io/badge/T--REXX-5A2D82?style=for-the-badge&logo=ibm&logoColor=white)
+![Natural](https://img.shields.io/badge/Natural-0B6FA4?style=for-the-badge&logo=code&logoColor=white)
 
 
 ## 📈 My Github Stats
