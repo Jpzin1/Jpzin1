@@ -18,7 +18,6 @@ Construindo soluções confiáveis em alta plataforma e explorando a integraçã
 - 🧩 Experiência com COBOL, JCL, DB2, TSO e T-REXX.
 - 🔄 Interesse em modernização de sistemas e integração entre tecnologias legadas e aplicações modernas.
 - 🌱 Também desenvolvo projetos com Java, Python, Angular e TypeScript.
-- 📚 Organizo estudos, projetos e certificados no [Meu Study Hub TI](https://github.com/Jpzin1/Meu_Study_Hub_TI).
 
 ## Tecnologias
 
@@ -43,20 +42,20 @@ Construindo soluções confiáveis em alta plataforma e explorando a integraçã
 
 ## Projetos em destaque
 
-- 📚 **[Meu Study Hub TI](https://github.com/Jpzin1/Meu_Study_Hub_TI)** — central de estudos, projetos acadêmicos e evolução profissional.
 - 🌐 **[Angular Portfolio](https://github.com/Jpzin1/angular-portfolio)** — portfólio pessoal desenvolvido com Angular e TypeScript.
 - ☕ **[NapBaby](https://github.com/Jpzin1/NapBaby)** — projeto desenvolvido em Java.
 - 📅 **[Bib Agenda](https://github.com/Jpzin1/Bib-agenda)** — aplicação desenvolvida em TypeScript.
+- 🔎 **[Buscador GitHub](https://github.com/Jpzin1/buscador-github)** — projeto em JavaScript para explorar perfis no GitHub.
 
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jpzin1&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub de João Pedro" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jpzin1&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas por João Pedro" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jpzin1&theme=transparent" alt="Estatísticas do GitHub de João Pedro" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jpzin1&theme=transparent" alt="Linguagens por repositório de João Pedro" />
 </p>
 
 ## Vamos conversar
 
 Estou aberto a trocar ideias sobre Mainframe, modernização de sistemas e desenvolvimento de software.
 
-[Portfólio](https://angular-portfolio-eight-umber.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-holanda-884973330/) • [Study Hub](https://github.com/Jpzin1/Meu_Study_Hub_TI)
+[Portfólio](https://angular-portfolio-eight-umber.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-holanda-884973330/)
